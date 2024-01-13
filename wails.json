@@ -1,0 +1,13 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "Mnemo Client",
+  "outputfilename": "mnemo-client",
+  "_frontend:install": "npm install",
+  "_frontend:build": "npm run build",
+  "_frontend:dev": "npm run dev",
+  "_frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "",
+    "email": "sean.burman@icloud.com"
+  }
+}
